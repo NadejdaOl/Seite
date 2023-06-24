@@ -1,0 +1,146 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+
+h2 {
+    font-family: 'Poppins' ;
+    font-weight: 700;
+    font-size: 38px;
+    color: #00548E;
+    text-align: center;
+    margin-top: 86px;
+    margin-bottom: 10px;
+}
+
+.Block_1 {
+    margin-bottom: 74px;
+}
+
+.Text {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-size: 16px;
+    color: black;
+    column-count: 2;
+    column-width: 50%;
+    column-gap: 4%;
+    align-items: start;
+    padding-left: 100px;
+    padding-right: 100px;
+    height: 96px;
+}
+
+.Block_2 {
+    display: flex;
+    margin-top: 60px;
+    height: 124px;  
+}
+
+.bild {
+    width: 86px;
+    height: 86px;
+    object-fit: cover;
+    padding-left: 160px;
+    margin-right: 30px;
+}
+
+h3 {
+    display: flex;
+    font-family: 'Poppins' ;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    color: #00548E;
+    margin-bottom: 10px; 
+}
+
+.Article_2 {
+    display: flex;
+    flex-direction: column;
+    padding-left: 276px;
+    padding-right: 100px;
+    text-align: start;
+    margin-bottom: 69px;
+    color: #696B7A;
+}
+
+.Block_3 {
+    display: flex;
+    margin-top: 69px;
+    height: 191px; 
+    margin-bottom: 90px; 
+}
+
+.Article_3 {
+    display: flex;
+    flex-direction: column;
+    height: 124px;
+    padding-left: 276px;
+    padding-right: 100px;
+    text-align: start;
+    color: #696B7A;
+}
+
+.Block_4 {
+    display: flex;
+    height: 165px; 
+    margin-bottom: 60px;
+}
+
+.Article_4 {
+    display: flex;
+    flex-direction: column;
+    height: 124px;
+    padding-left: 276px;
+    padding-right: 100px;
+    text-align: start;
+    color: #696B7A;
+}
+
+.left, .middle, .ende {
+    color: #696B7A;
+    font-family:'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    columns: 3;
+    list-style: none;
+    height: 87px;
+    margin-top: 10px;
+}
+
+.last {
+    padding-left: 513px;
+}
+
+.Block_5 {
+    display: inline-block;
+    padding-left: 100px;
+    padding-right: 100px;
+    justify-content: space-between;
+}
+
+.Other {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+.Box1, .Box2, .Box3, .Box4, .Box5, .Box6, .Box7, .Box8, .Box9, .Box10 {
+    
+    background-color: #F5F5F5;
+    border: 1px solid #CBCCD4;
+    color: #00548E;
+    margin-bottom: 20px;
+    height: 69px;
+    padding: 20px;
+    width: calc(1/5*100% - 35px);
+    text-align: center;
+    
+}
+
+
